@@ -17,7 +17,7 @@ This project was generated with [Selenium with java]
 		Java, TestNG, Maven, Selenium Webdriver (Chrome webdriver) 
 
 # Project Description: 
-			I have used Java, TestNG, Maven, Selenium Webdriver (Chrome webdriver) in this Assignment
+			I have used Java, TestNG, Maven, Selenium Webdriver (Chrome webdriver) in this Assignment.
 
 
 
